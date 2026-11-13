@@ -1,0 +1,1 @@
+"""GeoPol Bot Frontend Package."""
