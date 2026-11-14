@@ -4,7 +4,7 @@
 
 ---
 
-##  System Architecture
+##  System Architecture Naya Wala
 
 ```text
 GeoPol BoT/
