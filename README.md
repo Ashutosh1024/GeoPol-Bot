@@ -1,4 +1,4 @@
-#  GeoPol Bot
+#  GeoPol Bot Nayi Branch me.
 
 **GeoPol Bot** is an AI-powered geopolitics-only research and question-answering assistant. Built with **FastAPI** on the backend and **Streamlit** on the frontend, it enforces strict domain isolation, verified geopolitical knowledge retrieval, and evidence-grounded answer generation using the OpenAI API.
 
